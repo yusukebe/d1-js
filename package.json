@@ -1,0 +1,12 @@
+{
+  "name": "d1-js",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "wrangler dev --local --persist ./src/index.js"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^2.10.0"
+  }
+}
